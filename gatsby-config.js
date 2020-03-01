@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `CV`,
-            url: `https://shekharmayank.github.io/resume/`,
+            url: `http://bit.ly/3clqhTS`,
           },
         ],
       },
