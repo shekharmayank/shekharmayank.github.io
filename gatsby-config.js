@@ -29,12 +29,16 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/ayshekhar`,
+            name: `Github`,
+            url: `https://github.com/shekharmayank`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/ayshekhar/`,
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/may03`,
+          },
+          {
+            name: `CV`,
+            url: `https://shekharmayank.github.io/resume/`,
           },
         ],
       },
